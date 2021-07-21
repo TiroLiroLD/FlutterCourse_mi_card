@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b8df3a0-33e4-49e2-a67f-7600916c7b56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1v1I1bjbH5yDmV8dVqcUJaR74NJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leone\AndroidStudioProjects\mi_card_flutter\fonts" />
+      <recent name="C:\Users\leone\AndroidStudioProjects\mi_card_flutter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\leone\AndroidStudioProjects\mi_card_flutter\lib\images\icon" />
+      <recent name="C:\Users\leone\AndroidStudioProjects\mi_card_flutter\lib\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b8df3a0-33e4-49e2-a67f-7600916c7b56" name="Default Changelist" comment="" />
+      <created>1625722953929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625722953929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="163" key="FileChooserDialogImpl" timestamp="1626878821313">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="548" y="163" key="FileChooserDialogImpl/0.0.1536.816/2400.446.1280.720@0.0.1536.816" timestamp="1626878821313" />
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom" timestamp="1626878321641">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom/0.0.1536.816/2400.446.1280.720@0.0.1536.816" timestamp="1626878321641" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1625853459321" />
+    <state width="1493" height="205" key="GridCell.Tab.0.center" timestamp="1626878321641">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.center/0.0.1536.816/2400.446.1280.720@0.0.1536.816" timestamp="1626878321641" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1625853459321" />
+    <state width="1493" height="205" key="GridCell.Tab.0.left" timestamp="1626878321641">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.left/0.0.1536.816/2400.446.1280.720@0.0.1536.816" timestamp="1626878321641" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1625853459321" />
+    <state width="1493" height="205" key="GridCell.Tab.0.right" timestamp="1626878321641">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.right/0.0.1536.816/2400.446.1280.720@0.0.1536.816" timestamp="1626878321641" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1625853459321" />
+    <state x="499" y="111" key="RollbackChangesDialog" timestamp="1626696038306">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="111" key="RollbackChangesDialog/0.0.1536.816/2400.446.1280.720@0.0.1536.816" timestamp="1626696038306" />
+    <state x="93" y="93" width="1350" height="630" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1626870298538">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.816/2400.446.1280.720@0.0.1536.816" timestamp="1626870298538" />
+    <state x="478" y="141" width="579" height="534" key="find.popup" timestamp="1626878828887">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="478" y="141" width="579" height="534" key="find.popup/0.0.1536.816/2400.446.1280.720@0.0.1536.816" timestamp="1626878828887" />
+    <state x="342" y="92" key="new project wizard" timestamp="1626440554562">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="342" y="92" key="new project wizard/0.0.1536.816/2400.446.1280.720@0.0.1536.816" timestamp="1626440554562" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1626648267051">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816/2400.446.1280.720@0.0.1536.816" timestamp="1626648267051" />
+  </component>
+</project>
